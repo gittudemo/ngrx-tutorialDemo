@@ -9,5 +9,5 @@ export const increament = createAction('[] Increament');
 export const decreament = createAction('[] Decreament');
 
 //action to call reset
-
+//
 export const reset = createAction('[] Reset');
